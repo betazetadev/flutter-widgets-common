@@ -1,16 +1,38 @@
-# flutter_widgets_common
+# Flutter Widgets Tutorial
 
-A new Flutter project.
+This project is a comprehensive tutorial on the most common widgets in Flutter, providing practical 
+examples and detailed explanations to help developers build robust and efficient mobile applications.
 
-## Getting Started
+## How to Run the Project
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/betazetadev/flutter-widgets-common.git
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+2. Navigate to the project directory:
+   ```bash
+   cd flutter-widgets-common
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the application:
+   ```bash
+   flutter run
+   ```
+
+## Example Screenshot
+
+![Flutter Widgets Tutorial Screenshot](screenshot.png)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [hi@betazeta.dev].
